@@ -1,5 +1,6 @@
 ## Getting Start
 `git clone https://github.com/abhilashpujari/json-to-json-schema-app.git`
+`cd json-to-json-schema-app.git`
 
 ## Available Scripts
 
