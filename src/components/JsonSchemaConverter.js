@@ -20,6 +20,7 @@ const JsonSchemaConverter = () => {
       }
     } else {
       setJsonSchemaData('');
+      notify('Json Data is required');
     }
   }
 
