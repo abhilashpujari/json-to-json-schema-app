@@ -1,6 +1,6 @@
 # Json to Json Schema Converter App
 
-![](https://travis-ci.org/abhilashpujari/json-to-json-schema-app.svg?branch=master)
+[![Build Status](https://travis-ci.org/abhilashpujari/json-to-json-schema-app.svg?branch=master)](https://travis-ci.org/abhilashpujari/json-to-json-schema-app)
 
 ## Getting Start
 `git clone https://github.com/abhilashpujari/json-to-json-schema-app.git` <br>
