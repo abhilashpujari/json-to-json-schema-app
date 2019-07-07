@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/json-to-json-schema-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/json-to-json-schema-app/static/js/main.d08a7588.chunk.js",
+    "main.js.map": "/json-to-json-schema-app/static/js/main.d08a7588.chunk.js.map",
+    "runtime~main.js": "/json-to-json-schema-app/static/js/runtime~main.b0c21ac2.js",
+    "runtime~main.js.map": "/json-to-json-schema-app/static/js/runtime~main.b0c21ac2.js.map",
+    "static/js/2.b312763f.chunk.js": "/json-to-json-schema-app/static/js/2.b312763f.chunk.js",
+    "static/js/2.b312763f.chunk.js.map": "/json-to-json-schema-app/static/js/2.b312763f.chunk.js.map",
+    "index.html": "/json-to-json-schema-app/index.html",
+    "precache-manifest.b75faf5637bcca01224339cbbe406f09.js": "/json-to-json-schema-app/precache-manifest.b75faf5637bcca01224339cbbe406f09.js",
+    "service-worker.js": "/json-to-json-schema-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/json-to-json-schema-app/static/css/main.34de6062.chunk.css.map"
+  }
+}
